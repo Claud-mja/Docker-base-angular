@@ -1,27 +1,7 @@
-# dépendances locales (IMPORTANT)
 node_modules
-
-# build Angular
 dist
-out-tsc
-
-# logs
-npm-debug.log
-yarn-error.log
-pnpm-debug.log
-
-# git
+.angular
 .git
-.gitignore
-
-# IDE / éditeurs
 .vscode
 .idea
-
-# OS
-.DS_Store
-Thumbs.db
-
-# cache Angular / Node
-.angular
-.cache
+npm-debug.log
